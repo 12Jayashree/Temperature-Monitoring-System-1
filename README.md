@@ -41,4 +41,5 @@ The FPGA-based temperature monitoring system was implemented and verified using 
 Conclusion
 
 This project demonstrates the implementation of real-time temperature monitoring and predictive thermal management using FPGA and Verilog HDL.
+
  vivado output screenshort <img width="1600" height="824" alt="WhatsApp Image 2026-10-08 at 6 57 40 PM" src="https://github.com/user-attachments/assets/03c63dd7-b00a-4e91-ae11-15c716700e3a" />
