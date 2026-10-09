@@ -26,7 +26,7 @@ Files
 
 - "temp_monitor.v" – Verilog HDL source code
 - "vivado-output.jpeg" – Vivado output screenshot
-- "index.html" – Project webpage for GitHub Pages
+
 
 Vivado Output
 
